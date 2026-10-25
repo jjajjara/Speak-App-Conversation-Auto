@@ -1,0 +1,10 @@
+# 의존성 모듈
+node_modules/
+platform-tools/
+
+# 환경 변수
+.env
+
+# 임시 생성 오디오 파일 및 로그
+temp_*.mp3
+*.log
